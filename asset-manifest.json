@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/domain-react-spa/static/css/main.10ce2683.chunk.css",
-    "main.js": "/domain-react-spa/static/js/main.737aae74.chunk.js",
-    "main.js.map": "/domain-react-spa/static/js/main.737aae74.chunk.js.map",
+    "main.css": "/domain-react-spa/static/css/main.955bda8e.chunk.css",
+    "main.js": "/domain-react-spa/static/js/main.97d8b3c3.chunk.js",
+    "main.js.map": "/domain-react-spa/static/js/main.97d8b3c3.chunk.js.map",
     "runtime-main.js": "/domain-react-spa/static/js/runtime-main.f65da392.js",
     "runtime-main.js.map": "/domain-react-spa/static/js/runtime-main.f65da392.js.map",
     "static/css/2.829c9cb5.chunk.css": "/domain-react-spa/static/css/2.829c9cb5.chunk.css",
     "static/js/2.28ca74da.chunk.js": "/domain-react-spa/static/js/2.28ca74da.chunk.js",
     "static/js/2.28ca74da.chunk.js.map": "/domain-react-spa/static/js/2.28ca74da.chunk.js.map",
     "index.html": "/domain-react-spa/index.html",
-    "precache-manifest.dd91d77296b2f8a112227872ba0bc9b5.js": "/domain-react-spa/precache-manifest.dd91d77296b2f8a112227872ba0bc9b5.js",
+    "precache-manifest.68eff0559a961c343bc9e64e021f6d70.js": "/domain-react-spa/precache-manifest.68eff0559a961c343bc9e64e021f6d70.js",
     "service-worker.js": "/domain-react-spa/service-worker.js",
     "static/css/2.829c9cb5.chunk.css.map": "/domain-react-spa/static/css/2.829c9cb5.chunk.css.map",
-    "static/css/main.10ce2683.chunk.css.map": "/domain-react-spa/static/css/main.10ce2683.chunk.css.map",
+    "static/css/main.955bda8e.chunk.css.map": "/domain-react-spa/static/css/main.955bda8e.chunk.css.map",
     "static/js/2.28ca74da.chunk.js.LICENSE.txt": "/domain-react-spa/static/js/2.28ca74da.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f65da392.js",
     "static/css/2.829c9cb5.chunk.css",
     "static/js/2.28ca74da.chunk.js",
-    "static/css/main.10ce2683.chunk.css",
-    "static/js/main.737aae74.chunk.js"
+    "static/css/main.955bda8e.chunk.css",
+    "static/js/main.97d8b3c3.chunk.js"
   ]
 }
