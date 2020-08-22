@@ -126,7 +126,7 @@ function App() {
       </div>
 
       <div className="row no-gutters mt-2">
-        <div className="col-12 pb-2 pb-2">
+        <div className="col-lg-3 pb-2 pb-2">
             <div className="border border-secondary rounded bg-white p-2">
                 <Search
                     suburbs={suburbs} updateSuburbs={(evt) => setStateFromChangeEvent(evt, setSuburbs)}
@@ -139,8 +139,8 @@ function App() {
                 />
             </div>
         </div>
-        <div className="col-12">
-          <div className="border border-secondary rounded bg-white p-2 px-3" id="output">
+        <div className="col-lg-9">
+          <div className="border border-secondary rounded bg-white p-2 px-3 ml-lg-3" id="output">
             {isLoading
             ? spinner
             : <>
