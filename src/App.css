@@ -8,7 +8,6 @@
 
 #search input[type=text] {
   width: 100%;
-  max-width: 200px;
 }
 
 #search input[type=number] {
@@ -52,8 +51,13 @@ h2 {
   margin-left: -4px;
 }
 
+.numeric-search-field {
+  min-width: 270px;
+  max-width: 300px;
+}
+
 .numeric-search-field .controls {
-  max-width: 200px;
+  max-width: 300px;
 }
 
 .numeric-search-field .value {
