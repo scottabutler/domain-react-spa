@@ -1,0 +1,1044 @@
+[{
+    "type": "PropertyListing",
+    "listing": {
+        "listingType": "Sale",
+        "id": 2017638447,
+        "advertiser": {
+            "type": "Agency",
+            "id": 26438,
+            "name": "Savoy Real Estate",
+            "logoUrl": "https://images.domain.com.au/img/Agencys/26438/logo_26438.GIF?date=2015-07-17-11-52-13",
+            "preferredColourHex": "#2A314B",
+            "bannerUrl": "https://images.domain.com.au/img/Agencys/26438/banner_26438.GIF",
+            "contacts": [{
+                "name": "Jess Fouet"
+            }]
+        },
+        "priceDetails": {
+            "displayPrice": "$450,000 - $500,000"
+        },
+        "media": [{
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/12774011_1_1_181205_032213-w566-h425"
+        }, {
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/13062444_4_1_190403_121949-w1024-h683"
+        }, {
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/13062444_3_1_190403_121943-w1024-h683"
+        }, {
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/13062444_2_1_190403_121943-w1024-h683"
+        }, {
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/13062444_5_1_190403_121949-w1024-h683"
+        }],
+        "propertyDetails": {
+            "state": "VIC",
+            "features": ["AirConditioning", "BuiltInWardrobes", "Floorboards", "Gas", "SecureParking", "Intercom", "Heating", "Dishwasher"],
+            "propertyType": "ApartmentUnitFlat",
+            "allPropertyTypes": ["ApartmentUnitFlat"],
+            "bathrooms": 1.0,
+            "bedrooms": 2.0,
+            "carspaces": 1,
+            "unitNumber": "211",
+            "streetNumber": "17-21",
+            "street": "Queen Street",
+            "area": "Whitehorse City Council - Greater Area",
+            "region": "Eastern Suburbs",
+            "suburb": "BLACKBURN",
+            "postcode": "3130",
+            "displayableAddress": "211/17-21 Queen Street, Blackburn",
+            "latitude": -37.8193321,
+            "longitude": 145.151535,
+            "isRural": false,
+            "isNew": false,
+            "tags": []
+        },
+        "headline": "High End Executive Apartment",
+        "summaryDescription": "<b></b><br />This stunning apartment is located in the highly sought after Paragon building in the centre of Blackburn. Just a 1 minute walk to Blackburn Station, close to Blackburn High School and surrounded by an abundance of cafés and boutique shops...",
+        "hasFloorplan": true,
+        "hasVideo": false,
+        "labels": [],
+        "dateListed": "2022-03-03T19:46:23",
+        "inspectionSchedule": {
+            "byAppointment": false,
+            "recurring": false,
+            "times": []
+        },
+        "listingSlug": "211-17-21-queen-street-blackburn-vic-3130-2017638447"
+    }
+}, {
+    "type": "PropertyListing",
+    "listing": {
+        "listingType": "Sale",
+        "id": 2017637870,
+        "advertiser": {
+            "type": "Agency",
+            "id": 6525,
+            "name": " Jellis Craig & Company Pty Ltd",
+            "logoUrl": "https://images.domain.com.au/img/Agencys/6525/logo_6525.GIF",
+            "preferredColourHex": "#1c252e",
+            "bannerUrl": "https://images.domain.com.au/img/Agencys/6525/banner_6525.GIF",
+            "contacts": [{
+                "name": "David Macmillan",
+                "photoUrl": "https://images.domain.com.au/img/6525/contact_1150952.JPG?mod=220310-094653"
+            }, {
+                "name": "Xen Blaher",
+                "photoUrl": "https://images.domain.com.au/img/6525/contact_1150951.jpeg?mod=220309-083015"
+            }]
+        },
+        "priceDetails": {
+            "displayPrice": "$590,000 - $620,000"
+        },
+        "media": [{
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017637870_1_1_220303_055251-w1600-h1067"
+        }, {
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017637870_2_1_220303_055251-w1600-h1067"
+        }, {
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017637870_3_1_220303_055251-w1600-h1067"
+        }, {
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017637870_4_1_220303_055251-w1600-h1067"
+        }, {
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017637870_5_1_220303_055251-w1600-h1067"
+        }],
+        "propertyDetails": {
+            "state": "VIC",
+            "features": ["Floorboards", "Gas", "GroundFloor", "NorthFacing", "Intercom", "Heating"],
+            "propertyType": "ApartmentUnitFlat",
+            "allPropertyTypes": ["ApartmentUnitFlat"],
+            "bathrooms": 1.0,
+            "bedrooms": 2.0,
+            "carspaces": 1,
+            "unitNumber": "5",
+            "streetNumber": "3",
+            "street": "Osborne Avenue",
+            "area": "Boroondara City Council - Greater Area",
+            "region": "Eastern Suburbs",
+            "suburb": "GLEN IRIS",
+            "postcode": "3146",
+            "displayableAddress": "5/3 Osborne Avenue, Glen Iris",
+            "latitude": -37.8579,
+            "longitude": 145.046265,
+            "isRural": false,
+            "isNew": false,
+            "tags": []
+        },
+        "headline": "Peaceful and private in lifestyle location",
+        "summaryDescription": "<b></b><br />Take a confident first step, invest for success or enjoy the convenience of a secure CBD base with this north facing ground floor apartment just minutes from a range of lifestyle hotspots. Full of sunshine and leafy outlooks at the rear of...",
+        "hasFloorplan": true,
+        "hasVideo": false,
+        "labels": [],
+        "auctionSchedule": {
+            "time": "2022-03-26T12:00:00",
+            "auctionLocation": "On Site"
+        },
+        "dateListed": "2022-03-03T16:52:51",
+        "inspectionSchedule": {
+            "byAppointment": false,
+            "recurring": false,
+            "times": [{
+                "openingTime": "2022-03-12T10:00:00",
+                "closingTime": "2022-03-12T10:30:00"
+            }, {
+                "openingTime": "2022-03-17T13:00:00",
+                "closingTime": "2022-03-17T13:30:00"
+            }, {
+                "openingTime": "2022-03-19T12:00:00",
+                "closingTime": "2022-03-19T12:30:00"
+            }, {
+                "openingTime": "2022-03-24T13:00:00",
+                "closingTime": "2022-03-24T13:30:00"
+            }, {
+                "openingTime": "2022-03-26T11:30:00",
+                "closingTime": "2022-03-26T12:00:00"
+            }]
+        },
+        "listingSlug": "5-3-osborne-avenue-glen-iris-vic-3146-2017637870"
+    }
+}, {
+    "type": "PropertyListing",
+    "listing": {
+        "listingType": "Sale",
+        "id": 2017637820,
+        "advertiser": {
+            "type": "Agency",
+            "id": 3712,
+            "name": "Belle Property Glen Iris",
+            "logoUrl": "https://images.domain.com.au/img/Agencys/3712/logo_3712.png?date=132247312354562850",
+            "preferredColourHex": "#386351",
+            "bannerUrl": "https://images.domain.com.au/img/Agencys/3712/banner_3712.png?date=132247312446596521",
+            "contacts": [{
+                "name": "Liam Burke",
+                "photoUrl": "https://images.domain.com.au/img/3712/contact_1815370.jpeg?mod=220308-121235"
+            }, {
+                "name": "Steve Burke",
+                "photoUrl": "https://images.domain.com.au/img/3712/contact_1732825.jpeg?mod=220310-205023"
+            }]
+        },
+        "priceDetails": {
+            "displayPrice": "Expressions of Interest"
+        },
+        "media": [{
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017637820_1_1_220303_054323-w2100-h1400"
+        }, {
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017637820_2_1_220303_054323-w2100-h1400"
+        }, {
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017637820_3_1_220303_054323-w2100-h1400"
+        }, {
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017637820_4_1_220303_054323-w2100-h1400"
+        }, {
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017637820_5_1_220303_054323-w2100-h1400"
+        }],
+        "propertyDetails": {
+            "state": "VIC",
+            "features": ["SecureParking", "GroundFloor", "Gym"],
+            "propertyType": "ApartmentUnitFlat",
+            "allPropertyTypes": ["ApartmentUnitFlat"],
+            "bathrooms": 1.0,
+            "bedrooms": 2.0,
+            "carspaces": 2,
+            "unitNumber": "2",
+            "streetNumber": "50",
+            "street": "Liddiard Street",
+            "area": "Boroondara City Council - Greater Area",
+            "region": "Eastern Suburbs",
+            "suburb": "HAWTHORN",
+            "postcode": "3122",
+            "displayableAddress": "2/50 Liddiard Street, Hawthorn",
+            "latitude": -37.81937,
+            "longitude": 145.039383,
+            "isRural": false,
+            "isNew": false,
+            "tags": []
+        },
+        "headline": "Cafes and Restaurants at your leisure",
+        "summaryDescription": "<b></b><br />*Expressions of Interest closing Tuesday 29th March at 4.00pm*\n\nLocated in such a handy position, within easy walking distance to the Glenferrie Road, indulge in the array of amazing cafes, eateries, bars and specialty shops. This is the i...",
+        "hasFloorplan": true,
+        "hasVideo": false,
+        "labels": [],
+        "dateListed": "2022-03-03T16:43:26",
+        "inspectionSchedule": {
+            "byAppointment": false,
+            "recurring": false,
+            "times": [{
+                "openingTime": "2022-03-12T13:00:00",
+                "closingTime": "2022-03-12T13:30:00"
+            }]
+        },
+        "listingSlug": "2-50-liddiard-street-hawthorn-vic-3122-2017637820"
+    }
+}, {
+    "type": "PropertyListing",
+    "listing": {
+        "listingType": "Sale",
+        "id": 2017637477,
+        "advertiser": {
+            "type": "Agency",
+            "id": 15667,
+            "name": "Jellis Craig Northcote",
+            "logoUrl": "https://images.domain.com.au/img/Agencys/15667/logo_15667.jpeg",
+            "preferredColourHex": "#1c252e",
+            "bannerUrl": "https://images.domain.com.au/img/Agencys/15667/banner_15667.jpeg",
+            "contacts": [{
+                "name": "Courtney Walker",
+                "photoUrl": "https://images.domain.com.au/img/15667/contact_1721633.jpeg?mod=220311-115122"
+            }, {
+                "name": "Paula Beavis",
+                "photoUrl": "https://images.domain.com.au/img/15667/contact_1466875.jpeg?mod=220311-115122"
+            }]
+        },
+        "priceDetails": {
+            "displayPrice": "$590,000 - $649,000"
+        },
+        "media": [{
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017637477_1_1_220303_045743-w1600-h1067"
+        }, {
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017637477_2_1_220303_045743-w1600-h1067"
+        }, {
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017637477_3_1_220303_045743-w1600-h1067"
+        }, {
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017637477_4_1_220303_045743-w1600-h1067"
+        }, {
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017637477_5_1_220303_045743-w1600-h1067"
+        }],
+        "propertyDetails": {
+            "state": "VIC",
+            "features": ["Floorboards", "Intercom", "Heating"],
+            "propertyType": "ApartmentUnitFlat",
+            "allPropertyTypes": ["ApartmentUnitFlat"],
+            "bathrooms": 1.0,
+            "bedrooms": 2.0,
+            "carspaces": 1,
+            "unitNumber": "106",
+            "streetNumber": "577",
+            "street": "Glenferrie Road",
+            "area": "Boroondara City Council - Greater Area",
+            "region": "Eastern Suburbs",
+            "suburb": "HAWTHORN",
+            "postcode": "3122",
+            "displayableAddress": "106/577 Glenferrie Road, Hawthorn",
+            "latitude": -37.8257828,
+            "longitude": 145.0344,
+            "isRural": false,
+            "isNew": false,
+            "tags": []
+        },
+        "headline": "Stylish Simplicity On Glenferrie Doorstep",
+        "summaryDescription": "<b></b><br />Tucked all the way at the rear, in a quiet boutique apartment block, this beautiful north-facing, two bedroom apartment in a class of its own. This private sanctuary features a beautifully bright living and dining domain as well as a priva...",
+        "hasFloorplan": true,
+        "hasVideo": false,
+        "labels": [],
+        "auctionSchedule": {
+            "time": "2022-03-26T10:00:00",
+            "auctionLocation": "On Site"
+        },
+        "dateListed": "2022-03-03T15:57:44",
+        "inspectionSchedule": {
+            "byAppointment": false,
+            "recurring": false,
+            "times": [{
+                "openingTime": "2022-03-12T10:00:00",
+                "closingTime": "2022-03-12T10:30:00"
+            }, {
+                "openingTime": "2022-03-17T17:30:00",
+                "closingTime": "2022-03-17T18:00:00"
+            }, {
+                "openingTime": "2022-03-19T14:45:00",
+                "closingTime": "2022-03-19T15:15:00"
+            }]
+        },
+        "listingSlug": "106-577-glenferrie-road-hawthorn-vic-3122-2017637477"
+    }
+}, {
+    "type": "PropertyListing",
+    "listing": {
+        "listingType": "Sale",
+        "id": 2017636623,
+        "advertiser": {
+            "type": "Agency",
+            "id": 3576,
+            "name": "Ray White Burwood",
+            "logoUrl": "https://images.domain.com.au/img/Agencys/3576/logo_3576.jpg?date=131775909551604483",
+            "preferredColourHex": "#FEE536",
+            "bannerUrl": "https://images.domain.com.au/img/Agencys/3576/banner_3576.jpg?date=131775909945656263",
+            "contacts": [{
+                "name": "Ya Fei Dong",
+                "photoUrl": "https://images.domain.com.au/img/3576/contact_1798532.jpeg?mod=220310-153522"
+            }, {
+                "name": "Henry Lin",
+                "photoUrl": "https://images.domain.com.au/img/3576/contact_1296568.jpeg?mod=220310-153522"
+            }]
+        },
+        "priceDetails": {
+            "displayPrice": "Contact Agent"
+        },
+        "media": [{
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017636623_1_1_220303_023436-w2500-h1667"
+        }, {
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017636623_2_1_220303_023436-w2500-h1667"
+        }, {
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017636623_3_1_220303_023436-w2500-h1667"
+        }, {
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017636623_4_1_220303_023436-w2500-h1667"
+        }, {
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017636623_5_1_220303_023436-w2500-h1667"
+        }],
+        "propertyDetails": {
+            "state": "VIC",
+            "features": ["BuiltInWardrobes", "SecureParking", "Bath", "Heating"],
+            "propertyType": "ApartmentUnitFlat",
+            "allPropertyTypes": ["ApartmentUnitFlat"],
+            "bathrooms": 1.0,
+            "bedrooms": 2.0,
+            "carspaces": 1,
+            "unitNumber": "3",
+            "streetNumber": "28",
+            "street": "Main Street",
+            "area": "Whitehorse City Council - Greater Area",
+            "region": "Eastern Suburbs",
+            "suburb": "BLACKBURN",
+            "postcode": "3130",
+            "displayableAddress": "3/28 Main Street, Blackburn",
+            "latitude": -37.82316,
+            "longitude": 145.149033,
+            "isRural": false,
+            "isNew": false,
+            "tags": []
+        },
+        "headline": "Private unit with incredible Blackburn convenience",
+        "summaryDescription": "<b></b><br />Enjoying fantastic convenience positioned within the Box Hill High Zone and just an easy walk to Blackburn Station, Village and parkland, this private single level unit is destined to appeal to first home buyers, downsizers and keen invest...",
+        "hasFloorplan": true,
+        "hasVideo": false,
+        "labels": [],
+        "auctionSchedule": {
+            "time": "2022-03-27T11:30:00",
+            "auctionLocation": "On Site"
+        },
+        "dateListed": "2022-03-03T13:34:38",
+        "inspectionSchedule": {
+            "byAppointment": false,
+            "recurring": false,
+            "times": [{
+                "openingTime": "2022-03-12T13:30:00",
+                "closingTime": "2022-03-12T14:00:00"
+            }, {
+                "openingTime": "2022-03-13T11:00:00",
+                "closingTime": "2022-03-13T11:30:00"
+            }]
+        },
+        "listingSlug": "3-28-main-street-blackburn-vic-3130-2017636623"
+    }
+}, {
+    "type": "PropertyListing",
+    "listing": {
+        "listingType": "Sale",
+        "id": 2017635742,
+        "advertiser": {
+            "type": "Agency",
+            "id": 190,
+            "name": "Hayden Melbourne",
+            "logoUrl": "https://images.domain.com.au/img/Agencys/190/logo_190.jpeg",
+            "preferredColourHex": "#FFFFFE",
+            "bannerUrl": "https://images.domain.com.au/img/Agencys/190/banner_190.jpeg",
+            "contacts": [{
+                "name": "Jonathan Hayden"
+            }]
+        },
+        "priceDetails": {
+            "displayPrice": "Private Sale $550,000 - $590,000"
+        },
+        "media": [{
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017635742_1_1_220302_113839-w1200-h900"
+        }, {
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017635742_2_1_220302_113839-w1200-h900"
+        }, {
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017635742_3_1_220302_113839-w1200-h900"
+        }, {
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017635742_4_1_220302_113839-w1200-h900"
+        }, {
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017635742_5_1_220302_113839-w1200-h900"
+        }],
+        "propertyDetails": {
+            "state": "VIC",
+            "features": ["Ensuite", "Floorboards", "Gas", "CityViews", "Heating", "Dishwasher"],
+            "propertyType": "ApartmentUnitFlat",
+            "allPropertyTypes": ["ApartmentUnitFlat"],
+            "bathrooms": 2.0,
+            "bedrooms": 2.0,
+            "carspaces": 1,
+            "unitNumber": "Unit 208",
+            "streetNumber": "29-31",
+            "street": "Queens Avenue",
+            "area": "Boroondara City Council - Greater Area",
+            "region": "Eastern Suburbs",
+            "suburb": "HAWTHORN",
+            "postcode": "3122",
+            "displayableAddress": "Unit 208/29-31 Queens Avenue, Hawthorn",
+            "latitude": -37.82291,
+            "longitude": 145.0437,
+            "isRural": false,
+            "isNew": false,
+            "tags": []
+        },
+        "headline": "Blissful Modernity and Luxury - Hawthorn Style",
+        "summaryDescription": "<b></b><br />The Dream:\nIf you are looking for a lifestyle and location package, this stylish apartment is located amidst the action and yet sits quietly at the door step of Auburn Village.\n\nThe Abode:\nLight-filled and generous in space, the interiors ...",
+        "hasFloorplan": true,
+        "hasVideo": false,
+        "labels": [],
+        "dateListed": "2022-03-03T10:38:41",
+        "inspectionSchedule": {
+            "byAppointment": false,
+            "recurring": false,
+            "times": [{
+                "openingTime": "2022-03-12T11:30:00",
+                "closingTime": "2022-03-12T11:45:00"
+            }]
+        },
+        "listingSlug": "unit-208-29-31-queens-avenue-hawthorn-vic-3122-2017635742"
+    }
+}, {
+    "type": "PropertyListing",
+    "listing": {
+        "listingType": "Sale",
+        "id": 2017633771,
+        "advertiser": {
+            "type": "Agency",
+            "id": 17435,
+            "name": "Marshall White",
+            "logoUrl": "https://images.domain.com.au/img/Agencys/17435/logo_17435.jpg?date=132889172655435500",
+            "preferredColourHex": "#09142b",
+            "bannerUrl": "https://images.domain.com.au/img/Agencys/17435/banner_17435.jpg?date=132889172854666894",
+            "contacts": [{
+                "name": "Danny See",
+                "photoUrl": "https://images.domain.com.au/img/17435/contact_1713059.jpeg?mod=220310-174307"
+            }, {
+                "name": "Laurence Murphy",
+                "photoUrl": "https://images.domain.com.au/img/17435/contact_1337699.jpeg?mod=220307-084107"
+            }, {
+                "name": "Tom Willson",
+                "photoUrl": "https://images.domain.com.au/img/17435/contact_1840487.jpeg?mod=220310-140314"
+            }]
+        },
+        "priceDetails": {
+            "displayPrice": "$580,000 - $620,000"
+        },
+        "media": [{
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017633771_1_1_220302_050215-w1600-h1067"
+        }, {
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017633771_2_1_220302_050215-w1600-h1067"
+        }, {
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017633771_3_1_220302_050215-w1600-h1067"
+        }, {
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017633771_4_1_220302_050215-w1600-h1067"
+        }, {
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017633771_5_1_220302_050215-w1600-h1067"
+        }],
+        "propertyDetails": {
+            "state": "VIC",
+            "features": ["Intercom"],
+            "propertyType": "ApartmentUnitFlat",
+            "allPropertyTypes": ["ApartmentUnitFlat"],
+            "bathrooms": 1.0,
+            "bedrooms": 2.0,
+            "carspaces": 1,
+            "unitNumber": "",
+            "streetNumber": "4/8",
+            "street": "Hartington Street",
+            "area": "Boroondara City Council - Greater Area",
+            "region": "Eastern Suburbs",
+            "suburb": "KEW",
+            "postcode": "3101",
+            "displayableAddress": "4/8 Hartington Street, Kew",
+            "latitude": -37.80175,
+            "longitude": 145.042313,
+            "isRural": false,
+            "isNew": false,
+            "tags": []
+        },
+        "headline": "Investment Opportunity - Quality Location",
+        "summaryDescription": "<b></b><br />Enjoy the benefits of \"walk-to everything lifestyle\" from this appealing first floor apartment; brilliantly located in an older style complex in a popular Kew area - making it an excellent investment or a great starter for buyers entering ...",
+        "hasFloorplan": true,
+        "hasVideo": false,
+        "labels": [],
+        "auctionSchedule": {
+            "time": "2022-03-26T13:30:00",
+            "auctionLocation": "On Site"
+        },
+        "dateListed": "2022-03-02T16:02:15",
+        "inspectionSchedule": {
+            "byAppointment": false,
+            "recurring": false,
+            "times": [{
+                "openingTime": "2022-03-12T14:30:00",
+                "closingTime": "2022-03-12T15:00:00"
+            }]
+        },
+        "listingSlug": "4-8-hartington-street-kew-vic-3101-2017633771"
+    }
+}, {
+    "type": "PropertyListing",
+    "listing": {
+        "listingType": "Sale",
+        "id": 2017633292,
+        "advertiser": {
+            "type": "Agency",
+            "id": 11778,
+            "name": "Woodards Elsternwick",
+            "logoUrl": "https://images.domain.com.au/img/Agencys/11778/logo_11778.GIF",
+            "preferredColourHex": "#001534",
+            "bannerUrl": "https://images.domain.com.au/img/Agencys/11778/banner_11778.GIF",
+            "contacts": [{
+                "name": "Juanita Kelly",
+                "photoUrl": "https://images.domain.com.au/img/11778/contact_823376.jpeg?mod=220308-094157"
+            }, {
+                "name": "Walter Beauvais",
+                "photoUrl": "https://images.domain.com.au/img/11778/contact_1807331.jpeg?mod=220308-094157"
+            }]
+        },
+        "priceDetails": {
+            "displayPrice": "$450,000"
+        },
+        "media": [{
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017633292_1_1_220302_035427-w1600-h1067"
+        }, {
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017633292_2_1_220302_035427-w1600-h1067"
+        }, {
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017633292_3_1_220302_035427-w1600-h1067"
+        }, {
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017633292_4_1_220302_035427-w1600-h1067"
+        }, {
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017633292_5_1_220302_035427-w1600-h1067"
+        }],
+        "propertyDetails": {
+            "state": "VIC",
+            "features": ["AirConditioning", "Intercom", "Bath", "Dishwasher", "Study"],
+            "propertyType": "ApartmentUnitFlat",
+            "allPropertyTypes": ["ApartmentUnitFlat"],
+            "bathrooms": 1.0,
+            "bedrooms": 2.0,
+            "carspaces": 1,
+            "unitNumber": "15",
+            "streetNumber": "790",
+            "street": "Warrigal Road",
+            "area": "Stonnington - Greater Area",
+            "region": "Melbourne Region",
+            "suburb": "MALVERN EAST",
+            "postcode": "3145",
+            "displayableAddress": "15/790 Warrigal Road, Malvern East",
+            "latitude": -37.8903275,
+            "longitude": 145.088425,
+            "isRural": false,
+            "isNew": false,
+            "tags": []
+        },
+        "headline": "Stylish Designer Courtyard Apartment",
+        "summaryDescription": "<b></b><br />Your modern, stylish, two-bedroom, first-floor apartment has been designed for you to enjoy outdoor entertaining with a private, tiled courtyard accessed from the open plan kitchen and living area. The beautifully appointed, modern kitchen...",
+        "hasFloorplan": true,
+        "hasVideo": false,
+        "labels": [],
+        "dateListed": "2022-03-02T14:54:28",
+        "inspectionSchedule": {
+            "byAppointment": false,
+            "recurring": false,
+            "times": [{
+                "openingTime": "2022-03-12T11:15:00",
+                "closingTime": "2022-03-12T11:45:00"
+            }]
+        },
+        "listingSlug": "15-790-warrigal-road-malvern-east-vic-3145-2017633292"
+    }
+}, {
+    "type": "PropertyListing",
+    "listing": {
+        "listingType": "Sale",
+        "id": 2017631252,
+        "advertiser": {
+            "type": "Agency",
+            "id": 175,
+            "name": "RT Edgar Toorak",
+            "logoUrl": "https://images.domain.com.au/img/Agencys/175/logo_175.GIF",
+            "preferredColourHex": "#00002C",
+            "bannerUrl": "https://images.domain.com.au/img/Agencys/175/banner_175.GIF",
+            "contacts": [{
+                "name": "Rachael Fabbro",
+                "photoUrl": "https://images.domain.com.au/img/175/contact_1819926.jpeg?mod=220311-123319"
+            }, {
+                "name": "Helena Chow",
+                "photoUrl": "https://images.domain.com.au/img/175/contact_1363231.jpeg?mod=220311-123319"
+            }]
+        },
+        "priceDetails": {
+            "displayPrice": "EOI Closing Tuesday 29th March at 5.00pm"
+        },
+        "media": [{
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017631252_1_1_220302_113736-w1600-h1067"
+        }, {
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017631252_1_1_220301_095255-w1600-h1034"
+        }, {
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017631252_6_1_220301_095255-w1600-h1067"
+        }, {
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017631252_9_1_220301_095255-w1600-h1068"
+        }, {
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017631252_2_1_220301_095255-w1600-h1067"
+        }],
+        "propertyDetails": {
+            "state": "VIC",
+            "features": ["AirConditioning"],
+            "propertyType": "ApartmentUnitFlat",
+            "allPropertyTypes": ["ApartmentUnitFlat"],
+            "bathrooms": 1.0,
+            "bedrooms": 2.0,
+            "carspaces": 1,
+            "unitNumber": "APT 1.08",
+            "streetNumber": "1045",
+            "street": "Burke Road",
+            "area": "Boroondara City Council - Greater Area",
+            "region": "Eastern Suburbs",
+            "suburb": "HAWTHORN EAST",
+            "postcode": "3123",
+            "displayableAddress": "APT 1.08/1045 Burke Road, Hawthorn East",
+            "latitude": -37.82115,
+            "longitude": 145.058258,
+            "isRural": false,
+            "isNew": false,
+            "tags": []
+        },
+        "headline": "Avenir - Bespoke Architectural Design, Moments From Camberwell Junction",
+        "summaryDescription": "<b></b><br />This suave two-bedroom apartment immaculately combines minimalist bespoke design and stylish sophistication to deliver a future of unrivalled luxury. Sassy interiors and sunny alfresco dining are delicately integrated in this exquisite dev...",
+        "hasFloorplan": true,
+        "hasVideo": false,
+        "labels": [],
+        "dateListed": "2022-03-01T20:52:56",
+        "inspectionSchedule": {
+            "byAppointment": false,
+            "recurring": false,
+            "times": [{
+                "openingTime": "2022-03-12T12:00:00",
+                "closingTime": "2022-03-12T12:30:00"
+            }]
+        },
+        "listingSlug": "apt-1-08-1045-burke-road-hawthorn-east-vic-3123-2017631252"
+    }
+}, {
+    "type": "PropertyListing",
+    "listing": {
+        "listingType": "Sale",
+        "id": 2017630549,
+        "advertiser": {
+            "type": "Agency",
+            "id": 5489,
+            "name": " Jellis Craig Stonnington",
+            "logoUrl": "https://images.domain.com.au/img/Agencys/5489/logo_5489.GIF",
+            "preferredColourHex": "#1c252e",
+            "bannerUrl": "https://images.domain.com.au/img/Agencys/5489/banner_5489.GIF",
+            "contacts": [{
+                "name": "Sarah Sharp",
+                "photoUrl": "https://images.domain.com.au/img/5489/contact_1240503.jpeg?mod=220310-111305"
+            }, {
+                "name": "Mark Robertson",
+                "photoUrl": "https://images.domain.com.au/img/5489/contact_967184.jpeg?mod=220301-170025"
+            }]
+        },
+        "priceDetails": {
+            "displayPrice": "Expressions of Interest"
+        },
+        "media": [{
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017630549_1_1_220301_060020-w1600-h1067"
+        }, {
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017630549_2_1_220301_060020-w1600-h1067"
+        }, {
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017630549_3_1_220301_060020-w1600-h1067"
+        }, {
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017630549_4_1_220301_060020-w1600-h1067"
+        }, {
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017630549_5_1_220301_060020-w1600-h1067"
+        }],
+        "propertyDetails": {
+            "state": "VIC",
+            "features": ["Floorboards"],
+            "propertyType": "ApartmentUnitFlat",
+            "allPropertyTypes": ["ApartmentUnitFlat"],
+            "bathrooms": 1.0,
+            "bedrooms": 2.0,
+            "carspaces": 2,
+            "unitNumber": "207",
+            "streetNumber": "226",
+            "street": "Waverley Road",
+            "area": "Stonnington - Greater Area",
+            "region": "Melbourne Region",
+            "suburb": "MALVERN EAST",
+            "postcode": "3145",
+            "displayableAddress": "207/226 Waverley Road, Malvern East",
+            "latitude": -37.8768425,
+            "longitude": 145.053253,
+            "isRural": false,
+            "isNew": false,
+            "tags": []
+        },
+        "headline": "\"Palladium\" Luxury living",
+        "summaryDescription": "<b></b><br />Secure a highly coveted lifestyle in the heart of Malvern East in the stylish near new Palladium development. Showcasing a prime selection of twenty three impeccably appointed apartments, Palladium offers the very best in contemporary luxu...",
+        "hasFloorplan": true,
+        "hasVideo": false,
+        "labels": [],
+        "dateListed": "2022-03-01T17:00:21",
+        "inspectionSchedule": {
+            "byAppointment": false,
+            "recurring": false,
+            "times": [{
+                "openingTime": "2022-03-12T11:00:00",
+                "closingTime": "2022-03-12T11:30:00"
+            }]
+        },
+        "listingSlug": "207-226-waverley-road-malvern-east-vic-3145-2017630549"
+    }
+}, {
+    "type": "PropertyListing",
+    "listing": {
+        "listingType": "Sale",
+        "id": 2017630458,
+        "advertiser": {
+            "type": "Agency",
+            "id": 31826,
+            "name": "Biggin & Scott Boroondara",
+            "logoUrl": "https://images.domain.com.au/img/Agencys/31826/logo_31826.png",
+            "preferredColourHex": "#012b5d",
+            "bannerUrl": "https://images.domain.com.au/img/Agencys/31826/banner_31826.png",
+            "contacts": [{
+                "name": "Toni El-Helou",
+                "photoUrl": "https://images.domain.com.au/img/31826/contact_1576571.jpeg?mod=220309-142728"
+            }, {
+                "name": "Enika Zhou"
+            }, {
+                "name": "Jessica Wat",
+                "photoUrl": "https://images.domain.com.au/img/31826/contact_1611673.jpeg?mod=220309-142728"
+            }]
+        },
+        "priceDetails": {
+            "displayPrice": "Contact agent"
+        },
+        "media": [{
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017630458_1_1_220301_054724-w1600-h1067"
+        }, {
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017630458_2_1_220301_054724-w1600-h1066"
+        }, {
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017630458_3_1_220301_054724-w1600-h1066"
+        }, {
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017630458_4_1_220301_054724-w1600-h1067"
+        }, {
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017630458_5_1_220301_054724-w1600-h1067"
+        }],
+        "propertyDetails": {
+            "state": "VIC",
+            "features": ["BuiltInWardrobes", "Ensuite", "Floorboards", "Intercom", "Heating"],
+            "propertyType": "ApartmentUnitFlat",
+            "allPropertyTypes": ["ApartmentUnitFlat"],
+            "bathrooms": 2.0,
+            "bedrooms": 2.0,
+            "carspaces": 1,
+            "unitNumber": "B214",
+            "streetNumber": "12",
+            "street": "Albert Street",
+            "area": "Boroondara City Council - Greater Area",
+            "region": "Eastern Suburbs",
+            "suburb": "HAWTHORN EAST",
+            "postcode": "3123",
+            "displayableAddress": "B214/12 Albert Street, Hawthorn East",
+            "latitude": -37.8236,
+            "longitude": 145.048065,
+            "isRural": false,
+            "isNew": false,
+            "tags": []
+        },
+        "headline": "A striking Hawthorn East location steps to everything!",
+        "summaryDescription": "<b></b><br />Stunningly immaculate, showcasing a wealth of sleek and stylish designer fittings, and enviably placed in a Hawthorn East location that is sought-after by so many, this desirable 2 bedroom, 2 bathroom apartment is for those who those who s...",
+        "hasFloorplan": true,
+        "hasVideo": false,
+        "labels": ["Updated"],
+        "dateListed": "2022-03-01T16:47:25",
+        "inspectionSchedule": {
+            "byAppointment": false,
+            "recurring": false,
+            "times": [{
+                "openingTime": "2022-03-12T11:30:00",
+                "closingTime": "2022-03-12T12:00:00"
+            }]
+        },
+        "listingSlug": "b214-12-albert-street-hawthorn-east-vic-3123-2017630458"
+    }
+}, {
+    "type": "PropertyListing",
+    "listing": {
+        "listingType": "Sale",
+        "id": 2017628193,
+        "advertiser": {
+            "type": "Agency",
+            "id": 32071,
+            "name": "The Agency Boroondara",
+            "logoUrl": "https://images.domain.com.au/img/Agencys/32071/logo_32071.jpeg",
+            "preferredColourHex": "#ffffff",
+            "bannerUrl": "https://images.domain.com.au/img/Agencys/32071/banner_32071.jpeg",
+            "contacts": [{
+                "name": "Ericka Wong",
+                "photoUrl": "https://images.domain.com.au/img/32071/contact_1725771.jpeg?mod=220309-180431"
+            }]
+        },
+        "priceDetails": {
+            "displayPrice": "$620,000 - $680,000"
+        },
+        "media": [{
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017628193_1_1_220228_094438-w1500-h1000"
+        }, {
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017628193_2_1_220228_094438-w1500-h1000"
+        }, {
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017628193_3_1_220228_094438-w1500-h1000"
+        }, {
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017628193_4_1_220228_094438-w1500-h1000"
+        }, {
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017628193_5_1_220228_094438-w1500-h1000"
+        }],
+        "propertyDetails": {
+            "state": "VIC",
+            "features": ["Ensuite", "Floorboards", "Intercom", "Heating"],
+            "propertyType": "ApartmentUnitFlat",
+            "allPropertyTypes": ["ApartmentUnitFlat"],
+            "bathrooms": 2.0,
+            "bedrooms": 2.0,
+            "carspaces": 1,
+            "unitNumber": "103",
+            "streetNumber": "4",
+            "street": "Willsmere Road",
+            "area": "Boroondara City Council - Greater Area",
+            "region": "Eastern Suburbs",
+            "suburb": "KEW",
+            "postcode": "3101",
+            "displayableAddress": "103/4 Willsmere Road, Kew",
+            "latitude": -37.7990875,
+            "longitude": 145.0311,
+            "isRural": false,
+            "isNew": false,
+            "tags": []
+        },
+        "headline": "'Esque'  Private & Stylish Boutique Apartment Living!",
+        "summaryDescription": "<b></b><br />Nestled away near the rear of this quality built complex is this modern and classy property offering a private, leafy balcony view. A fantastic Kew location, this designer 2 bedroom, 2 bathroom apartment will impress!\n\nThis boutique flirst...",
+        "hasFloorplan": true,
+        "hasVideo": false,
+        "labels": [],
+        "auctionSchedule": {
+            "time": "2022-03-26T11:30:00",
+            "auctionLocation": "On Site"
+        },
+        "dateListed": "2022-03-01T08:44:40",
+        "inspectionSchedule": {
+            "byAppointment": false,
+            "recurring": false,
+            "times": [{
+                "openingTime": "2022-03-12T12:00:00",
+                "closingTime": "2022-03-12T12:30:00"
+            }, {
+                "openingTime": "2022-03-16T17:30:00",
+                "closingTime": "2022-03-16T18:00:00"
+            }]
+        },
+        "listingSlug": "103-4-willsmere-road-kew-vic-3101-2017628193"
+    }
+}, {
+    "type": "PropertyListing",
+    "listing": {
+        "listingType": "Sale",
+        "id": 2017626350,
+        "advertiser": {
+            "type": "Agency",
+            "id": 273,
+            "name": " Gary Peer",
+            "logoUrl": "https://images.domain.com.au/img/Agencys/273/logo_273.jpeg?date=131774813854543397",
+            "preferredColourHex": "#000032",
+            "bannerUrl": "https://images.domain.com.au/img/Agencys/273/banner_273.jpeg?date=131774813950632459",
+            "contacts": [{
+                "name": "Limor Herskovitz",
+                "photoUrl": "https://images.domain.com.au/img/273/contact_1366964.jpeg?mod=220310-123046"
+            }, {
+                "name": "Nikki Janover",
+                "photoUrl": "https://images.domain.com.au/img/273/contact_1262915.JPG?mod=220310-123046"
+            }]
+        },
+        "priceDetails": {
+            "displayPrice": "$650,000 - $700,000"
+        },
+        "media": [{
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017626350_1_1_220228_030712-w2000-h1333"
+        }, {
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017626350_2_1_220228_030712-w2000-h1333"
+        }, {
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017626350_3_1_220228_030712-w2000-h1333"
+        }, {
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017626350_4_1_220228_030712-w2000-h1333"
+        }, {
+            "category": "Image",
+            "url": "https://bucket-api.domain.com.au/v1/bucket/image/2017626350_5_1_220228_030712-w2000-h1333"
+        }],
+        "propertyDetails": {
+            "state": "VIC",
+            "features": ["BuiltInWardrobes", "Floorboards", "Gas", "Intercom", "Heating", "Dishwasher"],
+            "propertyType": "ApartmentUnitFlat",
+            "allPropertyTypes": ["ApartmentUnitFlat"],
+            "bathrooms": 2.0,
+            "bedrooms": 2.0,
+            "carspaces": 1,
+            "unitNumber": "G05",
+            "streetNumber": "1555",
+            "street": "Malvern Road",
+            "area": "Boroondara City Council - Greater Area",
+            "region": "Eastern Suburbs",
+            "suburb": "GLEN IRIS",
+            "postcode": "3146",
+            "displayableAddress": "G05/1555 Malvern Road, Glen Iris",
+            "latitude": -37.8536377,
+            "longitude": 145.047729,
+            "isRural": false,
+            "isNew": false,
+            "tags": []
+        },
+        "headline": "Deluxe design with massive outdoor space",
+        "summaryDescription": "<b></b><br />Set on the ground-floor of the exclusive, architecturally designed 'Grace' complex, this stunning high-end apartment effortlessly combines contemporary luxury & easy-living convenience. Lined with luxe Ash Oak floorboards, streamlined besp...",
+        "hasFloorplan": true,
+        "hasVideo": false,
+        "labels": ["Updated"],
+        "auctionSchedule": {
+            "time": "2022-03-26T11:30:00",
+            "auctionLocation": "On Site"
+        },
+        "dateListed": "2022-02-28T14:07:16",
+        "inspectionSchedule": {
+            "byAppointment": false,
+            "recurring": false,
+            "times": [{
+                "openingTime": "2022-03-12T11:00:00",
+                "closingTime": "2022-03-12T11:30:00"
+            }, {
+                "openingTime": "2022-03-16T12:00:00",
+                "closingTime": "2022-03-16T12:30:00"
+            }]
+        },
+        "listingSlug": "g05-1555-malvern-road-glen-iris-vic-3146-2017626350"
+    }
+}]
